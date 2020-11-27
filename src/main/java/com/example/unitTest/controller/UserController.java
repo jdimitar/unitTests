@@ -13,7 +13,7 @@ import com.example.unitTest.entity.User;
 import com.example.unitTest.repository.AddressRepository;
 import com.example.unitTest.repository.UserRepository;
 
-@Controller
+@RestController
 public class UserController {
 	
 	@Autowired
